@@ -1,0 +1,5 @@
+Which cloud providers does the Tenant Security Framework currently support?
+•	CCP & AWS
+•	CCP, AWS, and OpenStack
+•	CCP, AWS, OpenStack, Cloud Foundry, Azure and GCP
+•	AWS & AWS-EC2
