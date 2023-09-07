@@ -1,0 +1,6 @@
+Tenant Security Framework is Comcast's solution for Network Micro segmentation, for the primary purpose of:
+
+Keeping Comcast/NBCU off the news
+Reducing "Blast Radius" of cyber attacks to our environments and infrastructure
+Making Cyber Security firewall requests faster and easier
+Keeping Engineers on their toes
