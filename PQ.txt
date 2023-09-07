@@ -1,0 +1,10 @@
+How many CVEs were released in August 2023?
+1.	2,047
+2.	2,903
+3.	2,516 -- correct
+4.	2,615
+What is the earliest threat model finding number in ServiceNow?
+1.	FND0020009 -- correct
+2.	FND0010001
+3.	FND0021001
+4.	FND0000100
