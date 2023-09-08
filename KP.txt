@@ -1,0 +1,26 @@
+
+1.	The static code analysis tool used by RDK exposes a SOAP Web Service which is by Security Central to extract vulnerability data.   According to acronymfinder.com, which are the following are accepted as definitions of the acronym SOAP?    Select all that apply
+
+Choices:
+
+Structured Object Application Protocol
+Simple Object Access Protocol
+Simple Open Access Protocol
+Snakes on a Plane
+
+Correct Answers:
+Simple Object Access Protocol
+Snakes on a Plane
+
+2.	Which well-known music band was the subject of a recent ransomware attack, resulting in the lead singer paying the attackers a ransom to prevent unauthorized release of new songs prior to its scheduled 2023 release?
+
+Choices:
+
+The Smashing Pumpkins
+Metallica
+Foo Fighters
+boygenius
+
+Correct Answer:
+
+The Smashing Pumpkins
