@@ -1,0 +1,21 @@
+How is the data privacy term used to ensure user data is anonymized?
+1.	Data Minimization
+2.	Data Management
+3.	De-Identification  <=
+4.	Purging
+ 
+ 
+What are common data elements that are considered sensitive data?
+ 
+1.	Financial Information
+2.	Healthcare Data
+3.	Geolocation Data
+4.	All of the above  <=
+ 
+ 
+What is a common cybersecurity control that overlaps with privacy?
+ 
+1.	Access Controls  <=
+2.	Network Security
+3.	Secure Code Scans
+4.	Multi-factor Authentication
