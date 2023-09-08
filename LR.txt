@@ -1,0 +1,20 @@
+Question 1:
+Which App can you use to view your Xfinity account information?
+•	Xfinity MyAccount App
+•	Xfinity App
+•	Xfinity Home App
+•	Xfinity Stream App
+
+Answer:  
+Xfinity App.  An Xfinity customer’s Account information used to be viewable within the Xfinity MyAccount App, but this has since been deprecated (removed from the app stores) for new users and functions have all moved to the Xfinity App managed by the Connected Living Organization.
+
+Question 2:
+Which service/device will keep customers connected to the moments that matter, even during power outages?
+•	Xfinity Chime Device
+•	Xumo Device
+•	Storm-Ready Wifi Device
+•	Wifi Motion
+
+Answer:
+The Storm-Ready Wifi Device (developed by the Connected Living org) was released to the public in August 2023 with the ability to automatically switch the entire home to a back-up network, with an experience that keeps our customers fully informed throughout the outage.  
+
