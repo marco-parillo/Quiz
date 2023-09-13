@@ -1,0 +1,22 @@
+From: Spotts, Michael <Michael_Spotts2@comcast.com> 
+Sent: Wednesday, September 13, 2023 8:16 AM
+To: Parillo, Marco <Marco_Parillo@comcast.com>
+Cc: Spotts, Michael <Michael_Spotts2@comcast.com>; Cavazos, Sandra <Sandra_Cavazos@cable.comcast.com>
+Subject: RE: Quiz for the all-hands
+
+Marco,
+
+Here is a question for the All hands that is cyber related from a threat actor perspective.
+
+Question: What threat group is associated with the name Cozy Bear?
+
+Answer Choices:
+A)	APT32
+B)	APT29
+C)	APT27
+D)	APT34
+
+Answer is B – APT29
+
+Thanks,
+Spotts
