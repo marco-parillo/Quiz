@@ -11,3 +11,28 @@ we need some bad/wrong answers
  
 "so keith has more snyk logs to read to his kids at bedtime"
  
+Alice runs a small online retail company; many of her customers are from the United States. Currently, she accepts only blockchain-based payment, but she is considering the use of credit cards. After investigating Payment Card Industry Data Security Standard (PCI DSS) requirements, she decides that the cost of compliance would outweigh the additional revenue. Which of the following best describes this decision?
+
+A. Social engineering
+B. PCI DSS Merchant Level 3
+C. Card verification value (CVV)
+D. Risk Avoidance
+
+D
+ 
+ 
+The business impact analysis (BIA) should consider all of the following except:
+A. The value of the organization’s assets
+B. Industry standards
+C. Threats specific to the organization
+D. The likelihood of loss
+ 
+ B
+ 
+The _______ is the length of time an organization can suffer the loss of its critical path before ceasing to be a viable enterprise.
+A. recovery time objective (RTO)
+B. recovery point objective (RPO)
+C. maximum allowable downtime (MAD)
+D. annual loss expectancy (ALE)
+
+C
